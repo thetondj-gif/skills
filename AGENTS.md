@@ -1,6 +1,6 @@
 # AGENTS.md — Shared Skills
 
-Before estate-wide work, read the current Google Drive bootstrap `README_START_HERE` (`17WIrwqwC1z8MBzotqVO1n-sHDCFkFBL_Wk6CcHT8GkI`) and `AGENT_START_HERE_CURRENT` (`1V4TQ4c5eAD-R-ZEqHDz0cS6wJfb5urWshhmrUaPGuDk`). Never use the archived PRE-2026-08-30 startup files as authority.
+Before substantive Deus Intus work, read the current governance material in the Deus Intus Google Drive `DEUS_INTUS/01_GOVERNANCE_SOURCE_OF_TRUTH` and the 31 October 2026 correction in `CANONICAL_ESTATE_SOURCE_MAP.md` (https://drive.google.com/file/d/1WtvwyxwydhCDxuegn3h8isPg0wTYYpSS/view). Then read the current target repository's `AGENTS.md`, source, and current execution receipts. Verify live Studio/PostgreSQL state when relevant. The previous `AI BUSINESS COMPILER/README_START_HERE` and `AGENT_START_HERE_CURRENT` hierarchy is retired as execution authority; it may be used only as dated historical evidence. Never substitute an archived or older Drive snapshot for current live evidence.
 
 ## Estate role
 This repository is executable/shared capability inventory. Capability Compiler resolves skills by semantic capability and provenance; Foundry OS may package them into workforces.
